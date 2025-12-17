@@ -1,0 +1,4 @@
+event_id,name,total_tickets,available_tickets,price
+101,Rock Concert,500,500,50
+102,Tech Seminar,200,200,20
+103,College Fest,1000,1000,10
